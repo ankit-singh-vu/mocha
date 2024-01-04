@@ -21,4 +21,9 @@ then run like
 mocha //run all tests from all files
 mocha ./test/test3.js  //run all tests in one file
 mocha -g subtract  //run only one unit test
+
+
+we can use assert or chai
+"describe" is just a label of test
+"it" will contain the check
 ```
